@@ -1,5 +1,5 @@
 # 💫 About Me:
-😃I am Simarpreet Singh<br>😉I love playing with data sets.<br>📍I'm currently working on data science project i.e. python chatbox telegram using  DialogFlow<br>📐I'm currently learning machine learning <br><br> 
+😃I am Simarpreet Singh<br>
 
 
 ## 🌐 Socials:
