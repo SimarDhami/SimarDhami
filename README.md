@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simarpreet Singh</h1>
 <h3 align="center">I'm a passionate developer skilled in React, Python and API integration, constantly learning and growing!!</h3>
 
-<a img="right" alt="coding" width="200" src="![image](https://github.com/user-attachments/assets/3bbd7d0a-dbe7-42c5-a146-7f777d3536fe)>
+<img="right" alt="coding" width="200" src="![image](https://github.com/user-attachments/assets/3bbd7d0a-dbe7-42c5-a146-7f777d3536fe)>
 " 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simardhami&label=Profile%20views&color=0e75b6&style=flat" alt="simardhami" /> </p>
