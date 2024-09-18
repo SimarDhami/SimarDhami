@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simarpreet Singh</h1>
 <h3 align="center">I'm a passionate developer skilled in React, Python and API integration, constantly learning and growing!!</h3>
 
-<img="right" alt="coding" width="200" src="[![image](https://github.com/user-attachments/assets/f4bff4fa-47f7-4c6d-ada6-6cdd78aa9811)](https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif)
-">
+<img="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simardhami&label=Profile%20views&color=0e75b6&style=flat" alt="simardhami" /> </p>
